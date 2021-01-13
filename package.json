@@ -1,0 +1,27 @@
+{
+  "name": "customfilters",
+  "version": "1.0.0",
+  "description": "microservice to find devices with custom filters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "microservice",
+    "bismark",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "nodemon": "^1.18.10"
+  }
+}
