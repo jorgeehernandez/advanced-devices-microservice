@@ -1,4 +1,4 @@
-# Advanced filter devices microservice for Cumulocity IoT platform 
+# Advanced devices filter microservice for Cumulocity IoT platfom 
 
 ### Request structure  
 
